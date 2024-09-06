@@ -111,5 +111,9 @@
 
     - git log => commit history
 
+    - git mv {fileName} {fileName} => rename file
+
+    - git checkout {commitId} => return to last commit
+
 
 */
