@@ -104,7 +104,12 @@
     - git restore test.txt => remove modified 
 
     - git diff => difference between file in (stage) and modified
-    
+
+    - git commit => [stage => unmodified ] 
+
+    - git rm {fileName} => remove file
+
+    - git log => commit history
 
 
 */
