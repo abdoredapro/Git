@@ -127,6 +127,10 @@
     - git merge origin/main
     - git pull origin main
 
+    - git commit -a => add then commit
+
+    - git diff origin/main => difference between local and remote
+
 
 
 
