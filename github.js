@@ -115,5 +115,20 @@
 
     - git checkout {commitId} => return to last commit
 
+    =================== Remote ======================
+
+    - git remote
+    - git remote -v
+    - git remote add {remoteName} {link}
+    - git remote rename {oldName} {NewName}  
+    - git remote remove {remote}
+
+    - git fetch {remoteName}
+    - git merge origin/main
+    - git pull origin main
+
+
+
+
 
 */
