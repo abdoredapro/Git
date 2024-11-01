@@ -139,6 +139,10 @@
 
     - git branch -d {branchName} => delete branch
 
+    - git merge {branchName} => merge branch with main
+
+    - git branch -d {branchName} => delete branch
+
 
 
 
