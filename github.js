@@ -133,6 +133,13 @@
 
 
 
+    ==================== branch =======================
+
+    - git checkout -b {newName} => create branch and switch to it
+
+    - git branch -d {branchName} => delete branch
+
+
 
 
 */
